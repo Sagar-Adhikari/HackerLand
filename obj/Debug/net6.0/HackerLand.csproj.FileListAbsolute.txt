@@ -1,0 +1,15 @@
+/home/maheshn/Work/tests/HackerLand/bin/Debug/net6.0/HackerLand
+/home/maheshn/Work/tests/HackerLand/bin/Debug/net6.0/HackerLand.deps.json
+/home/maheshn/Work/tests/HackerLand/bin/Debug/net6.0/HackerLand.runtimeconfig.json
+/home/maheshn/Work/tests/HackerLand/bin/Debug/net6.0/HackerLand.dll
+/home/maheshn/Work/tests/HackerLand/bin/Debug/net6.0/ref/HackerLand.dll
+/home/maheshn/Work/tests/HackerLand/bin/Debug/net6.0/HackerLand.pdb
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.csproj.AssemblyReference.cache
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.GeneratedMSBuildEditorConfig.editorconfig
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.AssemblyInfoInputs.cache
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.AssemblyInfo.cs
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.csproj.CoreCompileInputs.cache
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.dll
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/ref/HackerLand.dll
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.pdb
+/home/maheshn/Work/tests/HackerLand/obj/Debug/net6.0/HackerLand.genruntimeconfig.cache
